@@ -1,0 +1,14 @@
+D:\repos\Semana_8\Ejercicios\EJ_3\bin\Debug\net10.0\EJ_3.exe
+D:\repos\Semana_8\Ejercicios\EJ_3\bin\Debug\net10.0\EJ_3.deps.json
+D:\repos\Semana_8\Ejercicios\EJ_3\bin\Debug\net10.0\EJ_3.runtimeconfig.json
+D:\repos\Semana_8\Ejercicios\EJ_3\bin\Debug\net10.0\EJ_3.dll
+D:\repos\Semana_8\Ejercicios\EJ_3\bin\Debug\net10.0\EJ_3.pdb
+D:\repos\Semana_8\Ejercicios\EJ_3\obj\Debug\net10.0\EJ_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Semana_8\Ejercicios\EJ_3\obj\Debug\net10.0\EJ_3.AssemblyInfoInputs.cache
+D:\repos\Semana_8\Ejercicios\EJ_3\obj\Debug\net10.0\EJ_3.AssemblyInfo.cs
+D:\repos\Semana_8\Ejercicios\EJ_3\obj\Debug\net10.0\EJ_3.csproj.CoreCompileInputs.cache
+D:\repos\Semana_8\Ejercicios\EJ_3\obj\Debug\net10.0\EJ_3.dll
+D:\repos\Semana_8\Ejercicios\EJ_3\obj\Debug\net10.0\refint\EJ_3.dll
+D:\repos\Semana_8\Ejercicios\EJ_3\obj\Debug\net10.0\EJ_3.pdb
+D:\repos\Semana_8\Ejercicios\EJ_3\obj\Debug\net10.0\EJ_3.genruntimeconfig.cache
+D:\repos\Semana_8\Ejercicios\EJ_3\obj\Debug\net10.0\ref\EJ_3.dll

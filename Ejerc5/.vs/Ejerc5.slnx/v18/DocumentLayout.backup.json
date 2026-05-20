@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iveth\\OneDrive\\Escritorio\\TAREAS\\SEGUNDO CICLO\\FUNDAMENTOS DE ALGORITMOS\\TAREA-S8-JP\\Ejerc5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{873BC812-7F81-445A-9C75-8C2E13F08A26}|Ejerc5\\Ejerc5.csproj|c:\\users\\iveth\\onedrive\\escritorio\\tareas\\segundo ciclo\\fundamentos de algoritmos\\tarea-s8-jp\\ejerc5\\ejerc5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{873BC812-7F81-445A-9C75-8C2E13F08A26}|Ejerc5\\Ejerc5.csproj|solutionrelative:ejerc5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iveth\\OneDrive\\Escritorio\\TAREAS\\SEGUNDO CICLO\\FUNDAMENTOS DE ALGORITMOS\\TAREA-S8-JP\\Ejerc5\\Ejerc5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejerc5\\Program.cs",
+              "ToolTip": "C:\\Users\\iveth\\OneDrive\\Escritorio\\TAREAS\\SEGUNDO CICLO\\FUNDAMENTOS DE ALGORITMOS\\TAREA-S8-JP\\Ejerc5\\Ejerc5\\Program.cs",
+              "RelativeToolTip": "Ejerc5\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T04:31:17.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

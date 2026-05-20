@@ -1,0 +1,7 @@
+C:\Users\iveth\OneDrive\Escritorio\TAREAS\SEGUNDO CICLO\FUNDAMENTOS DE ALGORITMOS\TAREA-S8-JP\Ejerc5\Ejerc5\obj\Debug\Ejerc5.csproj.AssemblyReference.cache
+C:\Users\iveth\OneDrive\Escritorio\TAREAS\SEGUNDO CICLO\FUNDAMENTOS DE ALGORITMOS\TAREA-S8-JP\Ejerc5\Ejerc5\obj\Debug\Ejerc5.csproj.CoreCompileInputs.cache
+C:\Users\iveth\OneDrive\Escritorio\TAREAS\SEGUNDO CICLO\FUNDAMENTOS DE ALGORITMOS\TAREA-S8-JP\Ejerc5\Ejerc5\bin\Debug\Ejerc5.exe.config
+C:\Users\iveth\OneDrive\Escritorio\TAREAS\SEGUNDO CICLO\FUNDAMENTOS DE ALGORITMOS\TAREA-S8-JP\Ejerc5\Ejerc5\bin\Debug\Ejerc5.exe
+C:\Users\iveth\OneDrive\Escritorio\TAREAS\SEGUNDO CICLO\FUNDAMENTOS DE ALGORITMOS\TAREA-S8-JP\Ejerc5\Ejerc5\bin\Debug\Ejerc5.pdb
+C:\Users\iveth\OneDrive\Escritorio\TAREAS\SEGUNDO CICLO\FUNDAMENTOS DE ALGORITMOS\TAREA-S8-JP\Ejerc5\Ejerc5\obj\Debug\Ejerc5.exe
+C:\Users\iveth\OneDrive\Escritorio\TAREAS\SEGUNDO CICLO\FUNDAMENTOS DE ALGORITMOS\TAREA-S8-JP\Ejerc5\Ejerc5\obj\Debug\Ejerc5.pdb

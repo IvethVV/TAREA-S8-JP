@@ -1,0 +1,14 @@
+D:\repos\Semana_8\Ejercicios\EJ_4\bin\Debug\net10.0\EJ_4.exe
+D:\repos\Semana_8\Ejercicios\EJ_4\bin\Debug\net10.0\EJ_4.deps.json
+D:\repos\Semana_8\Ejercicios\EJ_4\bin\Debug\net10.0\EJ_4.runtimeconfig.json
+D:\repos\Semana_8\Ejercicios\EJ_4\bin\Debug\net10.0\EJ_4.dll
+D:\repos\Semana_8\Ejercicios\EJ_4\bin\Debug\net10.0\EJ_4.pdb
+D:\repos\Semana_8\Ejercicios\EJ_4\obj\Debug\net10.0\EJ_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Semana_8\Ejercicios\EJ_4\obj\Debug\net10.0\EJ_4.AssemblyInfoInputs.cache
+D:\repos\Semana_8\Ejercicios\EJ_4\obj\Debug\net10.0\EJ_4.AssemblyInfo.cs
+D:\repos\Semana_8\Ejercicios\EJ_4\obj\Debug\net10.0\EJ_4.csproj.CoreCompileInputs.cache
+D:\repos\Semana_8\Ejercicios\EJ_4\obj\Debug\net10.0\EJ_4.dll
+D:\repos\Semana_8\Ejercicios\EJ_4\obj\Debug\net10.0\refint\EJ_4.dll
+D:\repos\Semana_8\Ejercicios\EJ_4\obj\Debug\net10.0\EJ_4.pdb
+D:\repos\Semana_8\Ejercicios\EJ_4\obj\Debug\net10.0\EJ_4.genruntimeconfig.cache
+D:\repos\Semana_8\Ejercicios\EJ_4\obj\Debug\net10.0\ref\EJ_4.dll
